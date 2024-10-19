@@ -1,5 +1,10 @@
-This is your new *vault*.
+個人開発での、ちょっと面倒と思ってしまう、付帯作業について備忘録として残していきたい。
+またなかなか手を出せなかった`Vue`もチャレンジ。
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+絶賛 Work in progress. ときどきup(backup)してます。
 
-When you're ready, delete this note and make the vault your own.
+- [[Git cheat sheet]]
+- [[Github Actions]]
+- [[NPM]]
+- [[Vue Tutorial|Vue Tutorial]]
+-
