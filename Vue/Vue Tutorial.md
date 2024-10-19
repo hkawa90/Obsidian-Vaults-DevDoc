@@ -1,0 +1,41 @@
+まぁ、とりあえずTutorial Videoでも見てみる。
+
+![](https://www.youtube.com/watch?v=Oyr0sr6l3SQ)
+
+- [0:00](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=0s) これがVue.jsだ！
+- [05:36](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=336s) このコースの流れ
+- [08:44](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=524s) こうしてVue.jsをはじめる(イントロダクション) 
+- [09:11](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=551s) 「単一ファイルコンポーネント」と「Vite」 
+- [13:36](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=816s) こうして開発環境を整える(Node.js, VSCode, create-vue) 
+- [20:29](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=1229s) create-vueが作成したプロジェクトはどうなっているのか 
+- [31:20](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=1880s) 拡張機能はこうセットアップする(Volar, ESLint, Prettier) 
+- [39:15](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=2355s) createAppを使ってVueのアプリを作る方法 
+- [46:59](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=2819s) .vueファイルはこうなっている！
+- [52:44](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=3164s) JavaScriptのデータを表示する方法
+- [56:09](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=3369s)クリックされた時に処理を実行する方法 
+- [58:50](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=3530s)これがリアクティビティだ！
+- [1:02:38](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=3758s) ref()を使ってリアクティブなデータを作る方法 
+- [1:10:29](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=4229s) reactive()を使ってオブジェクトをリアクティブにする方法 
+- [1:19:41](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=4781s) reactive()とref()はこうして一緒に使える 
+- [1:27:48](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=5268s) 普通のオブジェクトとref()はこうして一緒に使う 
+- [1:35:58](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=5758s) これがVue.jsの基礎だ！(テンプレート構文, イベントハンドリング, 算出プロパティ, ウォssッチャー, クラス/スタイル)(イントロダクション) 
+- [1:36:27](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=5787s) これがテンプレート構文だ！ 
+- [1:39:25](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=5965s) 二重波括弧({})を使ってデータを描画する方法
+- [1:41:56](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=6116s) これがv-から始まる特別な属性であるディレクティブだ！
+- [1:43:11](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=6191s) v-htmlを使ってデータをHTMLとして出力する方法
+- [1:46:29](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=6389s) こうしてv-bindを使って属性値を指定する
+- [1:52:00](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=6720s) Boolean属性に対してv-bindを利用する方法
+- [1:55:30](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=6930s) v-bindで１度に複数の属性を指定する方法
+- [1:57:01](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=7021s) v-onを用いてクリックなどのイベント発生時に特定の処理をする方法
+- [2:02:24](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=7344s) イベントオブジェクトを使ってイベントの情報を取得する方法
+- [2:05:01](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=7501s) v-onでハンドラーに引数を渡す方法
+- [2:06:15](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=7575s) イベント修飾子を使って頻繁に行う処理を簡略化する方法 - stop, prevent 
+- [2:12:01](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=7921s)キー修飾子を使ってキーボードイベントに対して処理をする方法
+- [2:14:00](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=8040s) ディレクティブの構造はこうなっている
+- [2:15:15](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=8115s) 角括弧([])を使ってディレクティブの引数にscriptのデータを指定する方法 [2:16:44](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=8204s) v-modelを使用してinputを単純に扱えるようにする方法
+- [2:19:25](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=8365s) computedを使って複雑な式を１つにまとめる方法 
+- [2:30:18](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=9018s) computedを使う時はここに注意する - ReactiveEffect
+- [2:46:19](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=9979s) watchEffectを使ってリアクティブなデータの変更を監視する方法 
+- [2:53:43](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=10423s) watchを使って特定のリアクティブなデータの変更を監視する方法
+- [3:09:18](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=11358s) class属性はこう指定する！ 
+- [3:17:49](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=11869s) style属性はこう指定する！
