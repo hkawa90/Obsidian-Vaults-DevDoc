@@ -3,6 +3,11 @@
 
 ```bash
 gh label create security:fix --description "セキュリティ問題対処" --color a82424
+# For release-drafter
+gh label create major --description "major version"
+gh label create minor --description "minor version"
+gh label create patch --description "patch version"
+
 ```
 ## 参考
 - [タスク管理に使えるIssueラベルおすすめ一覧（ベストプラクティス） – Penguin's CoffeeBreak](https://penguin-coffeebreak.com/archives/444)

@@ -3,8 +3,7 @@
 
 絶賛 Work in progress. ときどきup(backup)してます。
 
-- [[Git cheat sheet]]
-- [[Github Actions]]
-- [[NPM]]
-- [[Vue Tutorial|Vue Tutorial]]
--
+- [Git cheat sheet](./Git/Git%20cheat%20sheet.md)
+- [Github/Actions](./Github/Github%20Actions.md)
+- [NPM](NPM.md)
+- [Vue/Vue Tutorial](./Vue/Vue%20Tutorial.md)

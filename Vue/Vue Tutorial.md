@@ -3,7 +3,10 @@
 ![](https://www.youtube.com/watch?v=Oyr0sr6l3SQ)
 
 - [0:00](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=0s) これがVue.jsだ！
+	- Vue.js == Javascript framework
+	- Web UIが簡単に作れる
 - [05:36](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=336s) このコースの流れ
+	- 全部見るつもりならskipでもいいかな
 - [08:44](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=524s) こうしてVue.jsをはじめる(イントロダクション) 
 - [09:11](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=551s) 「単一ファイルコンポーネント」と「Vite」 
 - [13:36](https://www.youtube.com/watch?v=Oyr0sr6l3SQ&t=816s) こうして開発環境を整える(Node.js, VSCode, create-vue) 
