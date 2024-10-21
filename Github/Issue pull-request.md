@@ -6,6 +6,8 @@
 ![](https://www.youtube.com/watch?v=LdSwWxVzUpo)
 VSCodeでプルリクエスト
 
+Issueを作成して、クローズするまで：
+
 ```mermaid
 flowchart LR
 issue  --> checkout --> edit --> pull-request --> close
@@ -44,10 +46,13 @@ Creating pull request for 2-vulnerability-see-httpsgithubcomadvisoriesghsa-m85w-
 ? What's next? Submit
 https://github.com/hkawa90/astro-starlight-obsidian-template/pull/3
 ```
-一人開発なので`merge`できれば、クローズする(~~紐づけされたissueもcloseされる~~)
+一人開発なので`merge`できれば、終わり
 ```
-gh pr merge 3
-gh pr close 3 -d
+# viewで問題ないことを確認
+gh pr view 3
+# view確認後merge requestを出す
+gh pr merge 3 --merge --delete-branch
 ```
-上記フローではissueは`close`できなかった。ブラウザで`close`実行。
-==要確認==
+
+## 参考
+- [GitHub CLI で PR の作成からマージまでを行う流れ](https://gotohayato.com/content/573/)
