@@ -1,0 +1,1 @@
+[Repository Dispatch · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/repository-dispatch)を使うことで、他のリポジトリへ`Repository dispatch`イベントを送ることができる。対象リポジトリでは`workflow`のトリガとして`repository_dispatch`で実行できる。
