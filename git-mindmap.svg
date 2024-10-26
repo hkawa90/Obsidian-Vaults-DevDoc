@@ -31,8 +31,8 @@
      inkscape:cy="203.79458"
      inkscape:window-width="1409"
      inkscape:window-height="1237"
-     inkscape:window-x="1649"
-     inkscape:window-y="122"
+     inkscape:window-x="956"
+     inkscape:window-y="52"
      inkscape:window-maximized="0"
      inkscape:current-layer="graph-div" />
   <style
@@ -498,7 +498,7 @@
     </g>
     <a
        id="a139"
-       xlink:href="#既存のファイをgithubへ登録したい">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E6%97%A2%E5%AD%98%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%82%92github%E3%81%B8%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%9F%E3%81%84">
       <g
          transform="translate(344.9413039652318, 15)"
          class="mindmap-node section-0"
@@ -558,7 +558,7 @@
     </a>
     <a
        id="a138"
-       xlink:href="#ファイルを追加したけど、これからどうすれば…">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%9F%E3%81%91%E3%81%A9%E3%80%81%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E2%80%A6">
       <g
          transform="translate(577.2355162465747, 48.42675236126184)"
          class="mindmap-node section-0"
@@ -618,7 +618,7 @@
     </a>
     <a
        id="a137"
-       xlink:href="#リモートリポジトリの変更をローカルへ反映させたい">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E5%A4%89%E6%9B%B4%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%81%B8%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%81%9F%E3%81%84">
       <g
          transform="translate(730.5476626084085, 201.64668650081967)"
          class="mindmap-node section-1"
@@ -678,7 +678,7 @@
     </a>
     <a
        id="a136"
-       xlink:href="#GithubのリポジトリをローカルPCに取得したい。">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#Github%E3%81%AE%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%ABPC%E3%81%AB%E5%8F%96%E5%BE%97%E3%81%97%E3%81%9F%E3%81%84%E3%80%82">
       <g
          transform="translate(736.9205826167099, 289.34653157657397)"
          class="mindmap-node section-1"
@@ -738,7 +738,7 @@
     </a>
     <a
        id="a135"
-       xlink:href="#とあるブランチで修正途中だったが、ほかのブランチで作業したい">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%81%A8%E3%81%82%E3%82%8B%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%81%A7%E4%BF%AE%E6%AD%A3%E9%80%94%E4%B8%AD%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8C%E3%80%81%E3%81%BB%E3%81%8B%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%81%A7%E4%BD%9C%E6%A5%AD%E3%81%97%E3%81%9F%E3%81%84">
       <g
          transform="translate(41.90557085901014, 235.00861379041814)"
          class="mindmap-node section-2"
@@ -807,7 +807,7 @@
     </a>
     <a
        id="a134"
-       xlink:href="#ブランチを削除したい">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%82%92%E5%89%8A%E9%99%A4%E3%81%97%E3%81%9F%E3%81%84">
       <g
          transform="translate(203.9211326004139, 318.27021964586413)"
          class="mindmap-node section-2"
@@ -858,7 +858,7 @@
     </a>
     <a
        id="a133"
-       xlink:href="#ディレクトリ内のファイルバージョン管理したい">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E5%86%85%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%81%97%E3%81%9F%E3%81%84">
       <g
          transform="translate(311.31042051775216, 439.70242360535804)"
          class="mindmap-node section-3"
@@ -918,7 +918,7 @@
     </a>
     <a
        id="a132"
-       xlink:href="#指定のタグの内容を表示する">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E6%8C%87%E5%AE%9A%E3%81%AE%E3%82%BF%E3%82%B0%E3%81%AE%E5%86%85%E5%AE%B9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B">
       <g
          transform="translate(121.53533063877956, 376.5374114222982)"
          class="mindmap-node section-3"
@@ -978,7 +978,7 @@
     </a>
     <a
        id="a131"
-       xlink:href="#ファイルを間違えて修正した、もとに戻したい">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E9%96%93%E9%81%95%E3%81%88%E3%81%A6%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%9F%E3%80%81%E3%82%82%E3%81%A8%E3%81%AB%E6%88%BB%E3%81%97%E3%81%9F%E3%81%84">
       <g
          transform="translate(174.14593362647474, 79.59213160780916)"
          class="mindmap-node section-4"
@@ -1038,7 +1038,7 @@
     </a>
     <a
        id="a130"
-       xlink:href="#コミットしたけど取り消したい">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%97%E3%81%9F%E3%81%91%E3%81%A9%E5%8F%96%E3%82%8A%E6%B6%88%E3%81%97%E3%81%9F%E3%81%84">
       <g
          transform="translate(15, 144.49844632803683)"
          class="mindmap-node section-4"
@@ -1098,7 +1098,7 @@
     </a>
     <a
        id="a129"
-       xlink:href="#ログを残したい">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%AD%E3%82%B0%E3%82%92%E6%AE%8B%E3%81%97%E3%81%9F%E3%81%84">
       <g
          transform="translate(547.5741898226431, 405.0245690714072)"
          class="mindmap-node section-5"
@@ -1149,7 +1149,7 @@
     </a>
     <a
        id="a128"
-       xlink:href="#ログ内容を修正したい">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%AD%E3%82%B0%E5%86%85%E5%AE%B9%E3%82%92%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%9F%E3%81%84">
       <g
          transform="translate(631.6543437386565, 356.2987784750852)"
          class="mindmap-node section-5"
@@ -1200,7 +1200,7 @@
     </a>
     <a
        id="a127"
-       xlink:href="#ユーザ設定が必要と出たが、どうすれば？">
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%A6%E3%83%BC%E3%82%B6%E8%A8%AD%E5%AE%9A%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%A8%E5%87%BA%E3%81%9F%E3%81%8C%E3%80%81%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%EF%BC%9F">
       <g
          transform="translate(647.7386738839314, 126.31407331867763)"
          class="mindmap-node section-6"
