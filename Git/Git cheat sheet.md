@@ -1,51 +1,5 @@
 
-```mermaid
-mindmap
-  root((git))
-    ファイル
-      既存のファイをgithubへ登録したい
-      ファイルを追加したけど、これからどうすれば…
-      変更ファイルをGithubへアップロードしたい
-    リモート
-      リモートリポジトリの変更をローカルへ反映させたい
-      GithubのリポジトリをローカルPCに取得したい。
-    ブランチ
-      とあるブランチで修正途中だったが、ほかのブランチで作業したい
-      ブランチを削除したい
-    タグ
-      ディレクトリ内のファイルバージョン管理したい
-      指定のタグの内容を表示する
-    削除・取り消す
-      ファイルを間違えて修正した、もとに戻したい
-      コミットしたけど取り消したい
-
-    コミット
-      ログを残したい、
-      ログ内容を修正したい
-    設定
-      ユーザ設定が必要と出たが、どうすれば？
-```
-
-- ファイル
-	- 既存のファイをgithubへ登録したい
-	- ファイルを追加したけど、これからどうすれば…
-- リモート
-	- リモートリポジトリの変更をローカルへ反映させたい
-	- GithubのリポジトリをローカルPCに取得したい。
-- ブランチ
-	- とあるブランチで修正途中だったが、ほかのブランチで作業したい
-	- ブランチを削除したい
-- タグ
-	- ディレクトリ内のファイルバージョン管理したい
-	- 指定のタグの内容を表示する
-- 削除・取り消す
-	- ファイルを間違えて修正した、もとに戻したい
-	- コミットしたけど取り消したい
-- ログ
-	- ログを残したい、
-	- ログ内容を修正したい
-- 設定
-- ユーザ設定が必要と出たが、どうすれば？
+![[git-mindmap.svg]]
 ### 既存のファイをgithubへ登録したい
 まずはGithub上で空のリポジトリを作成する。
 最初からGithubへ登録したい場合、
@@ -55,31 +9,25 @@ git init
 git branch -M main
 git add .
 git commit -m "init"
-git remote add origin <Githubリポジトリ>
+git remote add origin <GithubリポジトリのURL>
 git push origin main
 ```
 途中からからGithubへ登録したい場合、
 ```
 cd <directory>
 git branch -M main
-git remote add origin <Githubリポジトリ>
+git remote add origin <GithubリポジトリのURL>
 git push origin main
 ```
 #init #add #branch #remote #push #commit #push
 
 ### ファイルを追加したけど、これからどうすれば…
+`add`サブコマンドで`git`管理下において、`commit`サブコマンドで登録
 ```sh
 git add <追加フィル>
 git commit -m "init" <追加ファイル>
 ```
 #add #commit
-
-### 変更ファイルをGithubへアップロードしたい
-
-```sh
-git push
-```
-#push
 
 ### リモートリポジトリの変更をローカルへ反映させたい
 ```sh
@@ -88,14 +36,14 @@ git fetch
 # 今いる作業中のブランチにリモートリポジトリの情報を反映
 git pull
 ```
-
+#fetch #push
 ### GithubのリポジトリをローカルPCに取得したい。
 ```
 git clone <リポジトリURL>
 # Commit履歴が必要ない場合(ファイルサイズ小、ダウンロード時間短)
 git clone --depth 1 <リポジトリURL>
 ```
-
+#clone
 ### とあるブランチで修正途中だったが、ほかのブランチで作業したい
 ```
 git stash push <メッセージ>
@@ -108,8 +56,14 @@ git stash pop
 サブコマンドsave/applyの組み合わせでもOK.
 #stash
 
+## ブランチを削除したい
+```sh
+git branch -d <branch名>
+```
+#branch
+
 ### ディレクトリ内のファイルバージョン管理したい
-タグをつける。
+タグをつける。タグは文字列、バージョン番号のルールは[セマンティック バージョニング 2.0.0 | Semantic Versioning](https://semver.org/lang/ja/)などを参照して付与する。
 ```
 git tag -a <タグ名> -m <タグのコメント>
 git push origin <タグ名>
@@ -119,6 +73,50 @@ git tag
 git show <タグ名>
 ```
 
+### 指定のタグの内容を表示する
+`show`サブコマンドを使います。
+```sh
+git show <tag名>
+```
+#show
+
+### ファイルを間違えて修正した、もとに戻したい
+```sh
+git checkout <ファイル名>
+```
+#checkout
+
+### コミットしたけど取り消したい
+```sh
+git log --oneline # コミットID表示
+git revert <コミットID>
+```
+#revert
+
+### ログを残したい
+`commit`時にログを付与します
+```sh
+git commit -m "ログ内容" files...
+#コミットメッセージを参照します
+git log
+```
+#commit #log
+
+### ログ内容を修正したい
+直前のコミットログが修正できます。
+```
+git commit --amend -m "init2"
+```
+#commit
+
+### ユーザ設定が必要と出たが、どうすれば？
+```
+git config --global user.name "お名前"
+git config --global user.email <emalアドレス>
+```
+#config
+
+## その他
 ### 修正の影響を受けないようbranch(枝)を作って、そのbranchで履歴を管理できる.
 
 ```
@@ -143,47 +141,11 @@ git rm <ファイル名>
 
 ### タグとしてバージョン番号を付与して管理する。
 バージョン番号のルールは[セマンティック バージョニング 2.0.0 | Semantic Versioning](https://semver.org/lang/ja/)などを参照して付与する。
-## 前の操作を取り消したい
-
-### ファイルを間違えて修正した、もとに戻したい
-```sh
-git checkout <ファイル名>
-```
-#checkout
-### コミットしたけど取り消したい
-```sh
-git log --oneline # コミットID表示
-git revert <コミットID>
-```
-#revert
-## 修正したい
-
-### ログ内容を修正したい
-直前のコミットログが修正できます。
-```
-git commit --amend -m "init2"
-```
 ## ログってどう書けば…
 [Conventional Commits](https://www.conventionalcommits.org/ja/v1.0.0/)
 [Git のコミットメッセージに Semantic Commit Messages のテンプレートを追加する - hiroaki's blog](https://hiro14aki.hatenablog.com/entry/2020/11/27/115626)
 #commit
 
-## ブランチを削除したい
-```sh
-git branch -d <branch名>
-```
-#branch
-
-## GithubのリポジトリをGitで管理したまま取得したい
-```sh
-git clone ...
-```
-## ユーザ設定が必要と出たが、どうすれば？
-```
-git config --global user.name "お名前"
-git config --global user.email <emalアドレス>
-```
-#config
 ## 一人開発だけど、みんなと同じようにしたい
 1. GitHub上でissueを立てる
 Githubのリポジトリで`Issues`をクリック

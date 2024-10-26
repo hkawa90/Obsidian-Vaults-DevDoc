@@ -1,12 +1,54 @@
 GitHub Actionsは、ビルド、テスト、デプロイのパイプラインを自動化できる継続的インテグレーションと継続的デリバリー（CI/CD）プラットフォームです。
 
+]
+
 ![](https://www.youtube.com/watch?v=Vaslap4nHh0)
 ![](https://www.youtube.com/watch?v=sx-aIgP2S00)
+
+YAMLで記述され、イベント（手動起動、プッシュなど）を契機に１つ以上のjobをstep事に実行する。
+![[Pasted image 20241025101839.png]]
+
 ```mermaid
+---
+title: Release(clickで当該linkへジャンプ)
+---
 flowchart LR
-checkout  --> build --> release-drafter --> upload-release-asset
-click build "https://www.github.com" "This is a tooltip for a link"
+checkout  --> build --> release-drafter --> action-gh-release
+click checkout "https://github.com/actions/checkout" "Action for checking out a repo"
+click release-drafter "https://github.com/marketplace/actions/release-drafter" "Drafts your next release notes as pull requests are merged into master"
+click action-gh-release "https://github.com/softprops/action-gh-release"
 ```
+
+
+```mermaid
+---
+title: pnpm audit(clickで当該linkへジャンプ)
+---
+flowchart LR
+checkout  --> setup-node --> Setup-pnpm --> run-pnpm
+click checkout "https://github.com/actions/checkout" "Action for checking out a repo"
+click setup-node "https://github.com/actions/setup-node" "Set up your GitHub Actions workflow with a specific version of node.js"
+click Setup-pnpm "https://github.com/marketplace/actions/setup-pnpm" "Install pnpm package manager."
+```
+
+```mermaid
+---
+title: Github Pages(clickで当該linkへジャンプ)
+---
+flowchart LR
+checkout  --> setup-node --> Setup-pnpm --> id1("run 
+pnpm") 
+
+id2("run 
+install") --> id3("run 
+build")--> upload-pages-artifact
+click checkout "https://github.com/actions/checkout" "Action for checking out a repo"
+click setup-node "https://github.com/actions/setup-node" "Set up your GitHub Actions workflow with a specific version of node.js"
+click Setup-pnpm "https://github.com/marketplace/actions/setup-pnpm" "Install pnpm package manager."
+click upload-pages-artifact "https://github.com/actions/upload-pages-artifact" "A composite action for packaging and uploading an artifact that can be deployed to GitHub Pages."
+```
+
+
 
 ### Community
 Github Actionsのツールがいろいろ公開されています。
@@ -22,6 +64,8 @@ Github Actionsのツールがいろいろ公開されています。
         level: critical
         fails: true
 ```
+- [YAML Read · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/yaml-read)
+  YAMLファイル内の値を参照できる
 ## Marketplace
 
 - [Marketplace · GitHub](https://github.com/marketplace?type=actions)
@@ -41,4 +85,4 @@ Github Actionsのツールがいろいろ公開されています。
 - [GitHub Actionsで別リポジトリのワークフローを呼び出す](https://zenn.dev/kitoketa/articles/1a3ef4426dfe31)
 - [ワークフロー状態バッジの追加 - GitHub Docs](https://docs.github.com/ja/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge)
 - [GitHub Actionsのバッジをリンク付きでREADMEに追加する #GitHubActions - Qiita](https://qiita.com/akameco/items/e474691964703033e18d)
-- 
+- [Github Actionsの変数とコンテキストのスコープについて (2022/11版)](https://zenn.dev/mizti/articles/04e7ba5246289b)

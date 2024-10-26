@@ -10,7 +10,9 @@ Issueを作成して、クローズするまで：
 
 ```mermaid
 flowchart LR
-issue  --> checkout --> edit --> pull-request --> close
+issue  --> checkout --> edit --> commit
+
+	pull-request --> merge-request --> close
 ```
 ## Isuue
 リポジトリに問題を作成して、作業の計画、議論、追跡を行うことができます。

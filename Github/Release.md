@@ -1,7 +1,7 @@
-GitHub上で開発したソフトウェアをそのままGitHub上で配布したい場合に使います。リリースノートとソースコードのアーカイブが添付されます。
+GitHub上で開発したソフトウェアをそのままGitHub上で配布したい場合に使います。リリース機能を使うことでリリースノートとソースコードのアーカイブが添付されます。
 
 以下のRelease drafterを使うとpull requestと連動して、リリースノートのドラフト版を作成してくれます。
-## Release Drafter
+## [Release Drafter](https://github.com/release-drafter/release-drafter)
 インストールは特段必要なく、下記設定ファイルをリポジトリ内に配置するだけです。
 
 pull request が main にマージされるときに、次のリリース ノートの下書きを作成します。
