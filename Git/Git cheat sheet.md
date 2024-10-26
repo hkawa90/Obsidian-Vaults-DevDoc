@@ -141,10 +141,17 @@ git rm <ファイル名>
 
 ### タグとしてバージョン番号を付与して管理する。
 バージョン番号のルールは[セマンティック バージョニング 2.0.0 | Semantic Versioning](https://semver.org/lang/ja/)などを参照して付与する。
-## ログってどう書けば…
+### ログってどう書けば…
 [Conventional Commits](https://www.conventionalcommits.org/ja/v1.0.0/)
 [Git のコミットメッセージに Semantic Commit Messages のテンプレートを追加する - hiroaki's blog](https://hiro14aki.hatenablog.com/entry/2020/11/27/115626)
 #commit
+
+### ファイル名を変更したい
+
+```sh
+git mv <old-filename> <new-filename>
+```
+
 
 ## 一人開発だけど、みんなと同じようにしたい
 1. GitHub上でissueを立てる
