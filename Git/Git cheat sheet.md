@@ -1,3 +1,1264 @@
+<svg
+   aria-roledescription="mindmap"
+   role="graphics-document document"
+   viewBox="5 5 954.0455932617188 500.1024169921875"
+   style="max-width: 100%;"
+   width="100%"
+   id="graph-div"
+   height="100%"
+   version="1.1"
+   sodipodi:docname="git-mindmap.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs127" />
+  <sodipodi:namedview
+     id="namedview127"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.4146332"
+     inkscape:cx="483.55993"
+     inkscape:cy="203.79458"
+     inkscape:window-width="1409"
+     inkscape:window-height="1237"
+     inkscape:window-x="956"
+     inkscape:window-y="52"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="graph-div" />
+  <style
+     id="style1">#graph-div{font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:16px;fill:#ccc;}#graph-div .error-icon{fill:#a44141;}#graph-div .error-text{fill:#ddd;stroke:#ddd;}#graph-div .edge-thickness-normal{stroke-width:1px;}#graph-div .edge-thickness-thick{stroke-width:3.5px;}#graph-div .edge-pattern-solid{stroke-dasharray:0;}#graph-div .edge-thickness-invisible{stroke-width:0;fill:none;}#graph-div .edge-pattern-dashed{stroke-dasharray:3;}#graph-div .edge-pattern-dotted{stroke-dasharray:2;}#graph-div .marker{fill:lightgrey;stroke:lightgrey;}#graph-div .marker.cross{stroke:lightgrey;}#graph-div svg{font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:16px;}#graph-div p{margin:0;}#graph-div .edge{stroke-width:3;}#graph-div .section--1 rect,#graph-div .section--1 path,#graph-div .section--1 circle,#graph-div .section--1 polygon,#graph-div .section--1 path{fill:#1f2020;}#graph-div .section--1 text{fill:lightgrey;}#graph-div .node-icon--1{font-size:40px;color:lightgrey;}#graph-div .section-edge--1{stroke:#1f2020;}#graph-div .edge-depth--1{stroke-width:17;}#graph-div .section--1 line{stroke:#e0dfdf;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-0 rect,#graph-div .section-0 path,#graph-div .section-0 circle,#graph-div .section-0 polygon,#graph-div .section-0 path{fill:#0b0000;}#graph-div .section-0 text{fill:lightgrey;}#graph-div .node-icon-0{font-size:40px;color:lightgrey;}#graph-div .section-edge-0{stroke:#0b0000;}#graph-div .edge-depth-0{stroke-width:14;}#graph-div .section-0 line{stroke:#f4ffff;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-1 rect,#graph-div .section-1 path,#graph-div .section-1 circle,#graph-div .section-1 polygon,#graph-div .section-1 path{fill:#4d1037;}#graph-div .section-1 text{fill:lightgrey;}#graph-div .node-icon-1{font-size:40px;color:lightgrey;}#graph-div .section-edge-1{stroke:#4d1037;}#graph-div .edge-depth-1{stroke-width:11;}#graph-div .section-1 line{stroke:#b2efc8;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-2 rect,#graph-div .section-2 path,#graph-div .section-2 circle,#graph-div .section-2 polygon,#graph-div .section-2 path{fill:#3f5258;}#graph-div .section-2 text{fill:lightgrey;}#graph-div .node-icon-2{font-size:40px;color:lightgrey;}#graph-div .section-edge-2{stroke:#3f5258;}#graph-div .edge-depth-2{stroke-width:8;}#graph-div .section-2 line{stroke:#c0ada7;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-3 rect,#graph-div .section-3 path,#graph-div .section-3 circle,#graph-div .section-3 polygon,#graph-div .section-3 path{fill:#4f2f1b;}#graph-div .section-3 text{fill:lightgrey;}#graph-div .node-icon-3{font-size:40px;color:lightgrey;}#graph-div .section-edge-3{stroke:#4f2f1b;}#graph-div .edge-depth-3{stroke-width:5;}#graph-div .section-3 line{stroke:#b0d0e4;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-4 rect,#graph-div .section-4 path,#graph-div .section-4 circle,#graph-div .section-4 polygon,#graph-div .section-4 path{fill:#6e0a0a;}#graph-div .section-4 text{fill:lightgrey;}#graph-div .node-icon-4{font-size:40px;color:lightgrey;}#graph-div .section-edge-4{stroke:#6e0a0a;}#graph-div .edge-depth-4{stroke-width:2;}#graph-div .section-4 line{stroke:#91f5f5;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-5 rect,#graph-div .section-5 path,#graph-div .section-5 circle,#graph-div .section-5 polygon,#graph-div .section-5 path{fill:#3b0048;}#graph-div .section-5 text{fill:lightgrey;}#graph-div .node-icon-5{font-size:40px;color:lightgrey;}#graph-div .section-edge-5{stroke:#3b0048;}#graph-div .edge-depth-5{stroke-width:-1;}#graph-div .section-5 line{stroke:#c4ffb7;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-6 rect,#graph-div .section-6 path,#graph-div .section-6 circle,#graph-div .section-6 polygon,#graph-div .section-6 path{fill:#995a01;}#graph-div .section-6 text{fill:lightgrey;}#graph-div .node-icon-6{font-size:40px;color:lightgrey;}#graph-div .section-edge-6{stroke:#995a01;}#graph-div .edge-depth-6{stroke-width:-4;}#graph-div .section-6 line{stroke:#66a5fe;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-7 rect,#graph-div .section-7 path,#graph-div .section-7 circle,#graph-div .section-7 polygon,#graph-div .section-7 path{fill:#154706;}#graph-div .section-7 text{fill:lightgrey;}#graph-div .node-icon-7{font-size:40px;color:lightgrey;}#graph-div .section-edge-7{stroke:#154706;}#graph-div .edge-depth-7{stroke-width:-7;}#graph-div .section-7 line{stroke:#eab8f9;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-8 rect,#graph-div .section-8 path,#graph-div .section-8 circle,#graph-div .section-8 polygon,#graph-div .section-8 path{fill:#161722;}#graph-div .section-8 text{fill:lightgrey;}#graph-div .node-icon-8{font-size:40px;color:lightgrey;}#graph-div .section-edge-8{stroke:#161722;}#graph-div .edge-depth-8{stroke-width:-10;}#graph-div .section-8 line{stroke:#e9e8dd;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-9 rect,#graph-div .section-9 path,#graph-div .section-9 circle,#graph-div .section-9 polygon,#graph-div .section-9 path{fill:#00296f;}#graph-div .section-9 text{fill:lightgrey;}#graph-div .node-icon-9{font-size:40px;color:lightgrey;}#graph-div .section-edge-9{stroke:#00296f;}#graph-div .edge-depth-9{stroke-width:-13;}#graph-div .section-9 line{stroke:#ffd690;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-10 rect,#graph-div .section-10 path,#graph-div .section-10 circle,#graph-div .section-10 polygon,#graph-div .section-10 path{fill:#01629c;}#graph-div .section-10 text{fill:lightgrey;}#graph-div .node-icon-10{font-size:40px;color:lightgrey;}#graph-div .section-edge-10{stroke:#01629c;}#graph-div .edge-depth-10{stroke-width:-16;}#graph-div .section-10 line{stroke:#fe9d63;stroke-width:3;}#graph-div .disabled,#graph-div .disabled circle,#graph-div .disabled text{fill:lightgray;}#graph-div .disabled text{fill:#efefef;}#graph-div .section-root rect,#graph-div .section-root path,#graph-div .section-root circle,#graph-div .section-root polygon{fill:hsl(180, 1.5873015873%, 48.3529411765%);}#graph-div .section-root text{fill:#2c2c2c;}#graph-div .icon-container{height:100%;display:flex;justify-content:center;align-items:center;}#graph-div .edge{fill:none;}#graph-div .mindmap-node-label{dy:1em;alignment-baseline:middle;text-anchor:middle;dominant-baseline:middle;text-align:center;}#graph-div :root{--mermaid-font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;}</style>
+  <g
+     id="g1" />
+  <g
+     class="mindmap-edges"
+     id="g20">
+    <path
+       class="edge section-edge-0 edge-depth-1"
+       d="M 501.94928365175224,131.45903590248847 L 479.8117894020056,93.5558289336466 L457.674295152259,55.65262196480474"
+       id="path1" />
+    <path
+       class="edge section-edge-0 edge-depth-1"
+       d="M 523.4745584362704,138.92427725161724 L 596.374911167677,110.26920511427753 L669.2752638990837,81.61413297693781"
+       id="path2" />
+    <path
+       class="edge section-edge-0 edge-depth-0"
+       d="M 490.6869711538138,239.75257989586999 L 498.6476445243077,199.44002712834265 L506.6083178948016,159.12747436081526"
+       id="path3" />
+    <path
+       class="edge section-edge-1 edge-depth-1"
+       d="M 643.8560903853037,271.0809800973514 L 732.8718305803259,251.801418147315 L821.8875707753481,232.52185619727857"
+       id="path4" />
+    <path
+       class="edge section-edge-1 edge-depth-1"
+       d="M 643.9042724024738,277.2000731689501 L 736.0895405844766,295.6513406851921 L828.2748087664794,314.1026082014341"
+       id="path5" />
+    <path
+       class="edge section-edge-1 edge-depth-0"
+       d="M 502.6362583696727,256.5470472321573 L 558.4884907560396,264.36227309160114 L614.3407231424065,272.177498951045"
+       id="path6" />
+    <path
+       class="edge section-edge-2 edge-depth-1"
+       d="M 348.7849493643132,266.57650724290744 L 255.8430005255991,268.85847095664707 L162.90105168688504,271.1404346703867"
+       id="path7" />
+    <path
+       class="edge section-edge-2 edge-depth-1"
+       d="M 353.2571978988612,276.8976505860587 L 328.850781396301,301.6892746473095 L304.4443648937408,326.4808987085603"
+       id="path8" />
+    <path
+       class="edge section-edge-2 edge-depth-0"
+       d="M 472.84776160722254,255.88222023857847 L 425.780706576012,260.3383626376037 L378.71365154480145,264.794505036629"
+       id="path9" />
+    <path
+       class="edge section-edge-3 edge-depth-1"
+       d="M 431.9999781733071,373.66965163783226 L 426.0277824417532,413.1205259838415 L420.05558671019924,452.57140032985075"
+       id="path10" />
+    <path
+       class="edge section-edge-3 edge-depth-1"
+       d="M 419.59432746950625,362.0563246162356 L 330.89023750226687,381.5380198923116 L242.1861475350275,401.01971516838756"
+       id="path11" />
+    <path
+       class="edge section-edge-3 edge-depth-0"
+       d="M 480.9349532792508,267.8150010979778 L 461.01306366279505,306.6535123758585 L441.0911740463393,345.4920236537392"
+       id="path12" />
+    <path
+       class="edge section-edge-4 edge-depth-1"
+       d="M 351.5597778901264,182.60957737639004 L 321.0132431048403,150.3933170120811 L290.4667083195542,118.17705664777216"
+       id="path13" />
+    <path
+       class="edge section-edge-4 edge-depth-1"
+       d="M 346.9388325629445,192.17351762444267 L 241.4402762916029,182.84647437219493 L135.94172002026133,173.5194311199472"
+       id="path14" />
+    <path
+       class="edge section-edge-4 edge-depth-0"
+       d="M 474.2808791013676,247.9302616563837 L 424.83076777152087,223.98144940287253 L375.38065644167415,200.03263714936136"
+       id="path15" />
+    <path
+       class="edge section-edge-5 edge-depth-1"
+       d="M 560.2572064059128,353.7616407951335 L 585.9803598607756,383.195766062305 L611.7035133156384,412.6298913294765"
+       id="path16" />
+    <path
+       class="edge section-edge-5 edge-depth-1"
+       d="M 565.1198761576328,345.2827237000835 L 636.0204368187823,358.832870764144 L706.9209974799318,372.38301782820446"
+       id="path17" />
+    <path
+       class="edge section-edge-5 edge-depth-0"
+       d="M 496.4764951316585,266.6908367929988 L 519.083756429372,298.46767933982767 L541.6910177270854,330.2445218866565"
+       id="path18" />
+    <path
+       class="edge section-edge-6 edge-depth-1"
+       d="M 597.5892356930826,200.60569951980932 L 668.7251850328987,179.4480135832798 L739.8611343727148,158.29032764675026"
+       id="path19" />
+    <path
+       class="edge section-edge-6 edge-depth-0"
+       d="M 501.09137694760324,247.55222530680257 L 535.496339570851,229.675175118637 L569.9013021940987,211.7981249304714"
+       id="path20" />
+  </g>
+  <g
+     class="mindmap-nodes"
+     id="g127">
+    <g
+       transform="translate(467.9841079598359, 235.56839562645257)"
+       class="mindmap-node section--1 section-root"
+       id="g24">
+      <g
+         transform="translate(19.796875, 18.9)"
+         id="g21">
+        <circle
+           r="19.796875"
+           class="node-bkg node-circle"
+           id="node-0" />
+      </g>
+      <g
+         transform="translate(19.796875, 5)"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         alignment-baseline="middle"
+         dy="1em"
+         id="g23">
+        <g
+           id="g22">
+          <rect
+             style="stroke: none"
+             class="background"
+             id="rect21" />
+          <text
+             style=""
+             y="-10.1"
+             id="text22"><tspan
+               dy="1.1em"
+               y="-0.1em"
+               x="0"
+               class="text-outer-tspan"
+               id="tspan22"><tspan
+                 font-weight="normal"
+                 class="text-inner-tspan"
+                 font-style="normal"
+                 id="tspan21">git</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(467.01430608877945, 125.51165863023266)"
+       class="mindmap-node section-0"
+       id="g28">
+      <g
+         id="g25">
+        <path
+           d="M0 32.8 v-27.799999999999997 q0,-5 5,-5 h75 q5,0 5,5 v32.8 H0 Z"
+           class="node-bkg node-no-border"
+           id="node-1" />
+        <line
+           y2="37.8"
+           x2="85"
+           y1="37.8"
+           x1="0"
+           class="node-line-0"
+           id="line24" />
+      </g>
+      <g
+         transform="translate(42.5, 5)"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         alignment-baseline="middle"
+         dy="1em"
+         id="g27">
+        <g
+           id="g26">
+          <rect
+             style="stroke: none"
+             class="background"
+             id="rect25" />
+          <text
+             style=""
+             y="-10.1"
+             id="text26"><tspan
+               dy="1.1em"
+               y="-0.1em"
+               x="0"
+               class="text-outer-tspan"
+               id="tspan26"><tspan
+                 font-weight="normal"
+                 class="text-inner-tspan"
+                 font-style="normal"
+                 id="tspan25">ファイル</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(587.1959985522433, 255.35615055674972)"
+       class="mindmap-node section-1"
+       id="g32">
+      <g
+         id="g29">
+        <path
+           d="M0 32.8 v-27.799999999999997 q0,-5 5,-5 h74 q5,0 5,5 v32.8 H0 Z"
+           class="node-bkg node-no-border"
+           id="node-4" />
+        <line
+           y2="37.8"
+           x2="84"
+           y1="37.8"
+           x1="0"
+           class="node-line-1"
+           id="line28" />
+      </g>
+      <g
+         transform="translate(42, 5)"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         alignment-baseline="middle"
+         dy="1em"
+         id="g31">
+        <g
+           id="g30">
+          <rect
+             style="stroke: none"
+             class="background"
+             id="rect29" />
+          <text
+             style=""
+             y="-10.1"
+             id="text30"><tspan
+               dy="1.1em"
+               y="-0.1em"
+               x="0"
+               class="text-outer-tspan"
+               id="tspan30"><tspan
+                 font-weight="normal"
+                 class="text-inner-tspan"
+                 font-style="normal"
+                 id="tspan29">リモート</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(321.7804301921881, 247.3083296487549)"
+       class="mindmap-node section-2"
+       id="g36">
+      <g
+         id="g33">
+        <path
+           d="M0 32.8 v-27.799999999999997 q0,-5 5,-5 h74 q5,0 5,5 v32.8 H0 Z"
+           class="node-bkg node-no-border"
+           id="node-7" />
+        <line
+           y2="37.8"
+           x2="84"
+           y1="37.8"
+           x1="0"
+           class="node-line-2"
+           id="line32" />
+      </g>
+      <g
+         transform="translate(42, 5)"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         alignment-baseline="middle"
+         dy="1em"
+         id="g35">
+        <g
+           id="g34">
+          <rect
+             style="stroke: none"
+             class="background"
+             id="rect33" />
+          <text
+             style=""
+             y="-10.1"
+             id="text34"><tspan
+               dy="1.1em"
+               y="-0.1em"
+               x="0"
+               class="text-outer-tspan"
+               id="tspan34"><tspan
+                 font-weight="normal"
+                 class="text-inner-tspan"
+                 font-style="normal"
+                 id="tspan33">ブランチ</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(407.7451443657542, 339.93862912526447)"
+       class="mindmap-node section-3"
+       id="g40">
+      <g
+         id="g37">
+        <path
+           d="M0 32.8 v-27.799999999999997 q0,-5 5,-5 h43 q5,0 5,5 v32.8 H0 Z"
+           class="node-bkg node-no-border"
+           id="node-10" />
+        <line
+           y2="37.8"
+           x2="53"
+           y1="37.8"
+           x1="0"
+           class="node-line-3"
+           id="line36" />
+      </g>
+      <g
+         transform="translate(26.5, 5)"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         alignment-baseline="middle"
+         dy="1em"
+         id="g39">
+        <g
+           id="g38">
+          <rect
+             style="stroke: none"
+             class="background"
+             id="rect37" />
+          <text
+             style=""
+             y="-10.1"
+             id="text38"><tspan
+               dy="1.1em"
+               y="-0.1em"
+               x="0"
+               class="text-outer-tspan"
+               id="tspan38"><tspan
+                 font-weight="normal"
+                 class="text-inner-tspan"
+                 font-style="normal"
+                 id="tspan37">タグ</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(295.8805525832058, 174.59450317929247)"
+       class="mindmap-node section-4"
+       id="g44">
+      <g
+         id="g41">
+        <path
+           d="M0 32.8 v-27.799999999999997 q0,-5 5,-5 h122 q5,0 5,5 v32.8 H0 Z"
+           class="node-bkg node-no-border"
+           id="node-13" />
+        <line
+           y2="37.8"
+           x2="132"
+           y1="37.8"
+           x1="0"
+           class="node-line-4"
+           id="line40" />
+      </g>
+      <g
+         transform="translate(66, 5)"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         alignment-baseline="middle"
+         dy="1em"
+         id="g43">
+        <g
+           id="g42">
+          <rect
+             style="stroke: none"
+             class="background"
+             id="rect41" />
+          <text
+             style=""
+             y="-10.1"
+             id="text42"><tspan
+               dy="1.1em"
+               y="-0.1em"
+               x="0"
+               class="text-outer-tspan"
+               id="tspan42"><tspan
+                 font-weight="normal"
+                 class="text-inner-tspan"
+                 font-style="normal"
+                 id="tspan41">削除・取り消す</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(523.8865298989081, 323.5669630532028)"
+       class="mindmap-node section-5"
+       id="g48">
+      <g
+         id="g45">
+        <path
+           d="M0 32.8 v-27.799999999999997 q0,-5 5,-5 h43 q5,0 5,5 v32.8 H0 Z"
+           class="node-bkg node-no-border"
+           id="node-16" />
+        <line
+           y2="37.8"
+           x2="53"
+           y1="37.8"
+           x1="0"
+           class="node-line-5"
+           id="line44" />
+      </g>
+      <g
+         transform="translate(26.5, 5)"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         alignment-baseline="middle"
+         dy="1em"
+         id="g47">
+        <g
+           id="g46">
+          <rect
+             style="stroke: none"
+             class="background"
+             id="rect45" />
+          <text
+             style=""
+             y="-10.1"
+             id="text46"><tspan
+               dy="1.1em"
+               y="-0.1em"
+               x="0"
+               class="text-outer-tspan"
+               id="tspan46"><tspan
+                 font-weight="normal"
+                 class="text-inner-tspan"
+                 font-style="normal"
+                 id="tspan45">ログ</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(557.211696181866, 185.9819546108214)"
+       class="mindmap-node section-6"
+       id="g52">
+      <g
+         id="g49">
+        <path
+           d="M0 32.8 v-27.799999999999997 q0,-5 5,-5 h42 q5,0 5,5 v32.8 H0 Z"
+           class="node-bkg node-no-border"
+           id="node-19" />
+        <line
+           y2="37.8"
+           x2="52"
+           y1="37.8"
+           x1="0"
+           class="node-line-6"
+           id="line48" />
+      </g>
+      <g
+         transform="translate(26, 5)"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         alignment-baseline="middle"
+         dy="1em"
+         id="g51">
+        <g
+           id="g50">
+          <rect
+             style="stroke: none"
+             class="background"
+             id="rect49" />
+          <text
+             style=""
+             y="-10.1"
+             id="text50"><tspan
+               dy="1.1em"
+               y="-0.1em"
+               x="0"
+               class="text-outer-tspan"
+               id="tspan50"><tspan
+                 font-weight="normal"
+                 class="text-inner-tspan"
+                 font-style="normal"
+                 id="tspan49">設定</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+    <a
+       id="a139"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E6%97%A2%E5%AD%98%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%82%92github%E3%81%B8%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%9F%E3%81%84">
+      <g
+         transform="translate(344.9413039652318, 15)"
+         class="mindmap-node section-0"
+         id="g58">
+        <g
+           id="g53">
+          <path
+             d="M0 50.39999847412109 v-45.39999847412109 q0,-5 5,-5 h200.3359375 q5,0 5,5 v50.39999847412109 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-2" />
+          <line
+             y2="55.39999847412109"
+             x2="210.3359375"
+             y1="55.39999847412109"
+             x1="0"
+             class="node-line-0"
+             id="line52" />
+        </g>
+        <g
+           transform="translate(105.16796875, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g57">
+          <g
+             id="g56">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect53" />
+            <text
+               style=""
+               y="-10.1"
+               id="text56"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan54"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan53">既存のファイをgithubへ登</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan56"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan55">録したい</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a138"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%9F%E3%81%91%E3%81%A9%E3%80%81%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E2%80%A6">
+      <g
+         transform="translate(577.2355162465747, 48.42675236126184)"
+         class="mindmap-node section-0"
+         id="g64">
+        <g
+           id="g59">
+          <path
+             d="M0 50.39999847412109 v-45.39999847412109 q0,-5 5,-5 h202 q5,0 5,5 v50.39999847412109 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-3" />
+          <line
+             y2="55.39999847412109"
+             x2="212"
+             y1="55.39999847412109"
+             x1="0"
+             class="node-line-0"
+             id="line58" />
+        </g>
+        <g
+           transform="translate(106, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g63">
+          <g
+             id="g62">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect59" />
+            <text
+               style=""
+               y="-10.1"
+               id="text62"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan60"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan59">ファイルを追加したけど、</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan62"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan61">これからどうすれば…</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a137"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E5%A4%89%E6%9B%B4%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%81%B8%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%81%9F%E3%81%84">
+      <g
+         transform="translate(730.5476626084085, 201.64668650081967)"
+         class="mindmap-node section-1"
+         id="g70">
+        <g
+           id="g65">
+          <path
+             d="M0 50.39999847412109 v-45.39999847412109 q0,-5 5,-5 h202 q5,0 5,5 v50.39999847412109 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-5" />
+          <line
+             y2="55.39999847412109"
+             x2="212"
+             y1="55.39999847412109"
+             x1="0"
+             class="node-line-1"
+             id="line64" />
+        </g>
+        <g
+           transform="translate(106, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g69">
+          <g
+             id="g68">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect65" />
+            <text
+               style=""
+               y="-10.1"
+               id="text68"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan66"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan65">リモートリポジトリの変更</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan68"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan67">をローカルへ反映させたい</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a136"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#Github%E3%81%AE%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%82%92%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%ABPC%E3%81%AB%E5%8F%96%E5%BE%97%E3%81%97%E3%81%9F%E3%81%84%E3%80%82">
+      <g
+         transform="translate(736.9205826167099, 289.34653157657397)"
+         class="mindmap-node section-1"
+         id="g76">
+        <g
+           id="g71">
+          <path
+             d="M0 50.39999847412109 v-45.39999847412109 q0,-5 5,-5 h202.125 q5,0 5,5 v50.39999847412109 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-6" />
+          <line
+             y2="55.39999847412109"
+             x2="212.125"
+             y1="55.39999847412109"
+             x1="0"
+             class="node-line-1"
+             id="line70" />
+        </g>
+        <g
+           transform="translate(106.0625, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g75">
+          <g
+             id="g74">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect71" />
+            <text
+               style=""
+               y="-10.1"
+               id="text74"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan72"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan71">Githubのリポジトリをロー</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan74"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan73">カルPCに取得したい。</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a135"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%81%A8%E3%81%82%E3%82%8B%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%81%A7%E4%BF%AE%E6%AD%A3%E9%80%94%E4%B8%AD%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8C%E3%80%81%E3%81%BB%E3%81%8B%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%81%A7%E4%BD%9C%E6%A5%AD%E3%81%97%E3%81%9F%E3%81%84">
+      <g
+         transform="translate(41.90557085901014, 235.00861379041814)"
+         class="mindmap-node section-2"
+         id="g84">
+        <g
+           id="g77">
+          <path
+             d="M0 67.99999694824218 v-62.999996948242185 q0,-5 5,-5 h202 q5,0 5,5 v67.99999694824218 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-8" />
+          <line
+             y2="72.99999694824218"
+             x2="212"
+             y1="72.99999694824218"
+             x1="0"
+             class="node-line-2"
+             id="line76" />
+        </g>
+        <g
+           transform="translate(106, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g83">
+          <g
+             id="g82">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect77" />
+            <text
+               style=""
+               y="-10.1"
+               id="text82"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan78"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan77">とあるブランチで修正途中</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan80"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan79">だったが、ほかのブランチ</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="2.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan82"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan81">で作業したい</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a134"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%82%92%E5%89%8A%E9%99%A4%E3%81%97%E3%81%9F%E3%81%84">
+      <g
+         transform="translate(203.9211326004139, 318.27021964586413)"
+         class="mindmap-node section-2"
+         id="g88">
+        <g
+           id="g85">
+          <path
+             d="M0 32.8 v-27.799999999999997 q0,-5 5,-5 h170 q5,0 5,5 v32.8 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-9" />
+          <line
+             y2="37.8"
+             x2="180"
+             y1="37.8"
+             x1="0"
+             class="node-line-2"
+             id="line84" />
+        </g>
+        <g
+           transform="translate(90, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g87">
+          <g
+             id="g86">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect85" />
+            <text
+               style=""
+               y="-10.1"
+               id="text86"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan86"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan85">ブランチを削除したい</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a133"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E5%86%85%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%81%97%E3%81%9F%E3%81%84">
+      <g
+         transform="translate(311.31042051775216, 439.70242360535804)"
+         class="mindmap-node section-3"
+         id="g94">
+        <g
+           id="g89">
+          <path
+             d="M0 50.39999847412109 v-45.39999847412109 q0,-5 5,-5 h203 q5,0 5,5 v50.39999847412109 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-11" />
+          <line
+             y2="55.39999847412109"
+             x2="213"
+             y1="55.39999847412109"
+             x1="0"
+             class="node-line-3"
+             id="line88" />
+        </g>
+        <g
+           transform="translate(106.5, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g93">
+          <g
+             id="g92">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect89" />
+            <text
+               style=""
+               y="-10.1"
+               id="text92"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan90"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan89">ディレクトリ内のファイル</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan92"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan91">バージョン管理したい</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a132"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E6%8C%87%E5%AE%9A%E3%81%AE%E3%82%BF%E3%82%B0%E3%81%AE%E5%86%85%E5%AE%B9%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B">
+      <g
+         transform="translate(121.53533063877956, 376.5374114222982)"
+         class="mindmap-node section-3"
+         id="g100">
+        <g
+           id="g95">
+          <path
+             d="M0 50.39999847412109 v-45.39999847412109 q0,-5 5,-5 h202 q5,0 5,5 v50.39999847412109 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-12" />
+          <line
+             y2="55.39999847412109"
+             x2="212"
+             y1="55.39999847412109"
+             x1="0"
+             class="node-line-3"
+             id="line94" />
+        </g>
+        <g
+           transform="translate(106, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g99">
+          <g
+             id="g98">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect95" />
+            <text
+               style=""
+               y="-10.1"
+               id="text98"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan96"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan95">指定のタグの内容を表示す</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan98"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan97">る</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a131"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E9%96%93%E9%81%95%E3%81%88%E3%81%A6%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%9F%E3%80%81%E3%82%82%E3%81%A8%E3%81%AB%E6%88%BB%E3%81%97%E3%81%9F%E3%81%84">
+      <g
+         transform="translate(174.14593362647474, 79.59213160780916)"
+         class="mindmap-node section-4"
+         id="g106">
+        <g
+           id="g101">
+          <path
+             d="M0 50.39999847412109 v-45.39999847412109 q0,-5 5,-5 h202 q5,0 5,5 v50.39999847412109 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-14" />
+          <line
+             y2="55.39999847412109"
+             x2="212"
+             y1="55.39999847412109"
+             x1="0"
+             class="node-line-4"
+             id="line100" />
+        </g>
+        <g
+           transform="translate(106, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g105">
+          <g
+             id="g104">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect101" />
+            <text
+               style=""
+               y="-10.1"
+               id="text104"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan102"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan101">ファイルを間違えて修正し</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan104"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan103">た、もとに戻したい</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a130"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%97%E3%81%9F%E3%81%91%E3%81%A9%E5%8F%96%E3%82%8A%E6%B6%88%E3%81%97%E3%81%9F%E3%81%84">
+      <g
+         transform="translate(15, 144.49844632803683)"
+         class="mindmap-node section-4"
+         id="g112">
+        <g
+           id="g107">
+          <path
+             d="M0 50.39999847412109 v-45.39999847412109 q0,-5 5,-5 h202 q5,0 5,5 v50.39999847412109 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-15" />
+          <line
+             y2="55.39999847412109"
+             x2="212"
+             y1="55.39999847412109"
+             x1="0"
+             class="node-line-4"
+             id="line106" />
+        </g>
+        <g
+           transform="translate(106, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g111">
+          <g
+             id="g110">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect107" />
+            <text
+               style=""
+               y="-10.1"
+               id="text110"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan108"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan107">コミットしたけど取り消し</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan110"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan109">たい</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a129"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%AD%E3%82%B0%E3%82%92%E6%AE%8B%E3%81%97%E3%81%9F%E3%81%84">
+      <g
+         transform="translate(547.5741898226431, 405.0245690714072)"
+         class="mindmap-node section-5"
+         id="g116">
+        <g
+           id="g113">
+          <path
+             d="M0 32.8 v-27.799999999999997 q0,-5 5,-5 h138 q5,0 5,5 v32.8 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-17" />
+          <line
+             y2="37.8"
+             x2="148"
+             y1="37.8"
+             x1="0"
+             class="node-line-5"
+             id="line112" />
+        </g>
+        <g
+           transform="translate(74, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g115">
+          <g
+             id="g114">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect113" />
+            <text
+               style=""
+               y="-10.1"
+               id="text114"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan114"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan113">ログを残したい、</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a128"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%AD%E3%82%B0%E5%86%85%E5%AE%B9%E3%82%92%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%9F%E3%81%84">
+      <g
+         transform="translate(631.6543437386565, 356.2987784750852)"
+         class="mindmap-node section-5"
+         id="g120">
+        <g
+           id="g117">
+          <path
+             d="M0 32.8 v-27.799999999999997 q0,-5 5,-5 h170 q5,0 5,5 v32.8 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-18" />
+          <line
+             y2="37.8"
+             x2="180"
+             y1="37.8"
+             x1="0"
+             class="node-line-5"
+             id="line116" />
+        </g>
+        <g
+           transform="translate(90, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g119">
+          <g
+             id="g118">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect117" />
+            <text
+               style=""
+               y="-10.1"
+               id="text118"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan118"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan117">ログ内容を修正したい</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+    <a
+       id="a127"
+       xlink:href="../notes/git/git-cheat-sheet/index.html#%E3%83%A6%E3%83%BC%E3%82%B6%E8%A8%AD%E5%AE%9A%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%A8%E5%87%BA%E3%81%9F%E3%81%8C%E3%80%81%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%EF%BC%9F">
+      <g
+         transform="translate(647.7386738839314, 126.31407331867763)"
+         class="mindmap-node section-6"
+         id="g126">
+        <g
+           id="g121">
+          <path
+             d="M0 50.39999847412109 v-45.39999847412109 q0,-5 5,-5 h203 q5,0 5,5 v50.39999847412109 H0 Z"
+             class="node-bkg node-no-border"
+             id="node-20" />
+          <line
+             y2="55.39999847412109"
+             x2="213"
+             y1="55.39999847412109"
+             x1="0"
+             class="node-line-6"
+             id="line120" />
+        </g>
+        <g
+           transform="translate(106.5, 5)"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           alignment-baseline="middle"
+           dy="1em"
+           id="g125">
+          <g
+             id="g124">
+            <rect
+               style="stroke: none"
+               class="background"
+               id="rect121" />
+            <text
+               style=""
+               y="-10.1"
+               id="text124"><tspan
+                 dy="1.1em"
+                 y="-0.1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan122"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan121">ユーザ設定が必要と出たが</tspan></tspan><tspan
+                 dy="1.1em"
+                 y="1em"
+                 x="0"
+                 class="text-outer-tspan"
+                 id="tspan124"><tspan
+                   font-weight="normal"
+                   class="text-inner-tspan"
+                   font-style="normal"
+                   id="tspan123">、どうすれば？</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+    </a>
+  </g>
+</svg>
 
 ![[git-mindmap.svg]]
 ### 既存のファイをgithubへ登録したい

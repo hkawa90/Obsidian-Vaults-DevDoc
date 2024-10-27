@@ -10,6 +10,7 @@
 - [Draw Freely | Inkscape](https://inkscape.org/ja/)
   イラストレーター、デザイナー、ウェブデザイナーなど、ベクターイメージを必要としている皆様に、Inkscape をオススメします。
   ![](https://www.youtube.com/watch?v=rFYQW2DCM2I&t=46s)
+  ![](https://www.youtube.com/watch?v=AAhVqLyKk4U)
 - [GIMP - GNU Image Manipulation Program](https://www.gimp.org/)
   ![](https://www.youtube.com/watch?v=_L_MMU22bAw&t=8s)
 - [draw.io](https://www.drawio.com/)
@@ -27,9 +28,11 @@
 ### Editor
 - [Visual Studio Code - Windows に無料でダウンロードしてインストールする | Microsoft Store](https://apps.microsoft.com/detail/xp9khm4bk9fz7q?launch=true&mode=full&hl=ja-jp&gl=jp&ocid=bingwebsearch)
 - [Obsidian - Sharpen your thinking](https://obsidian.md/)
+- [GNU Emacs - GNU Project](https://www.gnu.org/software/emacs/)
 
 ### Resource Monitor
 - top: procps package
+- [htop - an interactive process viewer](https://htop.dev/)
 - [aristocratos/btop: A monitor of resources](https://github.com/aristocratos/btop)
   ![[Pasted image 20241024231534.png]]
 - [dylanaraps/neofetch: 🖼️ A command-line system information tool written in bash 3.2+](https://github.com/dylanaraps/neofetch)
@@ -46,6 +49,9 @@
 ### Terminal
 - [Warp: The intelligent terminal](https://www.warp.dev/)
   AI搭載Rust製ターミナル
+- [GitHub - GitSquared/edex-ui: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.](https://github.com/GitSquared/edex-ui)
+  Coolなんだけど、現在public archived.
+  ![[Pasted image 20241026174146.png]]
 ### Misc
 - [junegunn/fzf: :cherry\_blossom: A command-line fuzzy finder](https://github.com/junegunn/fzf)
   ![[Pasted image 20241024232624.png]]

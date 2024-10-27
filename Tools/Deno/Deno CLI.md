@@ -16,7 +16,7 @@ console.log("Wants color?:", flags.color);
 console.log("Other:", flags._);
 ```
 
-### ## Executing external commands
+### Executing external commands
 
 ```ts
 #!/usr/bin/env -S deno run --allow-all
